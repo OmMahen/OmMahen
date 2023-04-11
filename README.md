@@ -29,5 +29,4 @@ I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Ma
 ### Reach me on
 - <a href="https://www.linkedin.com/in/mahendra-putra-raharja/">LinkedIn</a>
 - <a href="https://www.instagram.com/hen_pr/">Instagram</a>
-- asdas
 - <a href="https://twitter.com/aja_mahen">Twitter</a>
