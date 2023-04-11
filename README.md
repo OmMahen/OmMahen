@@ -4,8 +4,8 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Mataram</a>.
 
-- 🌱 I’m currently learning about web development
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌱 I’m currently learning about Web Development
+- 💬 Feel free to ask me about Web Development or JavaScript
 - 📫 How to reach me: mahendraputraraharja@gmail.com
 - ⚡ Fun fact: brother of a sister
 
