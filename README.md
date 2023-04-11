@@ -4,10 +4,10 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Mataram</a>.
 
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently learning about web development
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: mahendraputraraharja@gmail.com
-- ⚡ Fun fact: Father of a daughter
+- ⚡ Fun fact: brother of a sister
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -27,22 +27,7 @@ I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Ma
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">sada</a>
+- <a href="https://www.linkedin.com/in/mahendra-putra-raharja/">LinkedIn</a>
+- <a href="https://www.instagram.com/hen_pr/">Instagram</a>
 - asdas
-- <a href="https://twitter/dimsmds">Twitter</a>
-
-<!--
-**OmMahen/OmMahen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a href="https://twitter.com/aja_mahen">Twitter</a>
