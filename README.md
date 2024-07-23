@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm OmMahen.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I like web development and stuff. I use Javascript for everything. 
 
-I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Mataram</a>.
+I'm was a Student at <a href="https://unram.ac.id/">Universitas Mataram</a>.
 
 - 🌱 I’m currently learning about Web Development
 - 💬 Feel free to ask me about Web Development or JavaScript
@@ -22,7 +22,5 @@ I'm currently active as Student at <a href="https://unram.ac.id/">Universitas Ma
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/mahendra-putra-raharja/">LinkedIn</a>
-- <a href="https://www.instagram.com/hen_pr/">Instagram</a>
-- <a href="https://twitter.com/aja_mahen">Twitter</a>
 
 Thanks for stopping by!
