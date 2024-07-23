@@ -9,7 +9,6 @@ I like web development and stuff. I use Javascript for everything.
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/mahendra-putra-raharja/">LinkedIn</a>
+### Reach me on <a href="https://www.linkedin.com/in/mahendra-putra-raharja/" target="_blank">LinkedIn</a>
 
 Thanks for stopping by!
